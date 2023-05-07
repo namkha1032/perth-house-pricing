@@ -9,4 +9,5 @@ The progress is conducted by the following 4 steps:
 - **Step 2**: *Data visualization and analysis*. In this step, we draw some plot such as *3D scatterplot, boxplot, histogram, choropleth map* to gain some insight from the data.
 - **Step 3**: *Build the prediction model*, using Artificial Neural Network.
 - **Step 4**: *Evaluating model*, using distribution plot and record performance metrics.
+
 The full implementation progress can be found at this [Google Colab notebook](https://colab.research.google.com/drive/1Cgo86HBPaPW45Hkt3jHIwkgOU1EY8vgL)
